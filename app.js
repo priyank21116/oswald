@@ -1,7 +1,7 @@
 const express =require('express')
 const mongoose = require('mongoose')
 const path = require("path");
-const url="mongodb+srv://Emart:Mnp24367q@cluster0.o54jy.mongodb.net/myFirstDatabase?retryWrites=true&w=majority";
+const url="mongodb+srv://Username:Password@cluster0.o54jy.mongodb.net/myFirstDatabase?retryWrites=true&w=majority";
 const app = express()
 var cors = require('cors')
 
